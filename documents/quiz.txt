@@ -1,0 +1,8 @@
+the solution of quiz is to pick up one piece from the crate which is labeled Orange+apple and since "All crates label is wrong".
+so if the picked up turned to be apple then crate which is labeled apple will be orange and finally the orange crate will be contains apple .
+
+ if it turned to be orange then apple crate will be "apple + orange " and orange crate will be "apple"
+this beacuse labeling done as 1 "apple" 2 "orange" 3 "apple + orange"
+so after mixing the conditions will be only as follows :
+1 "apple + orange" 2 "apple" 3 "orange"
+or 1 "orange" 2 "apple + orange" 3 "apple"
